@@ -1,0 +1,12 @@
+
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ƒ™›üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õÊƒ¼ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
